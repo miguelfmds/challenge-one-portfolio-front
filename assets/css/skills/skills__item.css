@@ -1,0 +1,55 @@
+/*
+  a configuração CSS dos componentes do "skills"
+  serão exportadas para o arquivo "assets/css/skills/skills.css"
+ */
+
+/* mobile */
+
+.skills__item{
+  background-color: var(--sobremim);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 10px;
+
+  box-sizing: border-box;
+  padding: 1rem;
+  margin-top: 2rem;
+
+  height: 7.375rem;
+  width: 47.5%;
+}
+
+/* tablet */
+
+@media screen and (min-width:768px){
+
+  .skills__item{
+    height: 7.375rem;
+    width: 31.82%;
+  }
+
+}
+
+/* laptop */
+
+@media screen and (min-width:1024px) {
+
+  .skills__item{
+    margin-left: 0;
+  }
+
+}
+
+/* desktop */
+
+@media screen and (min-width:1440px) {
+
+  .skills__item{
+    height: 7.375rem;
+    width: 11rem;
+    min-width: 15.3%;
+  }
+
+}
