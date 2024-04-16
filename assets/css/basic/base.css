@@ -18,15 +18,6 @@
 /* cores e fonte */
 
 :root {
-  --azul10: #EAF2FD;
-  --azul20: #D4E4FA;
-  --azul80: #5595E9;
-  --azul100: #2A7AE4;
-  --branco: #FFFFFF;
-  --cinza10: #EDEDED;
-  --cinza30: #C8C8C8;
-  --cinza50: #A2A2A2;
-  --cinza100: #464646;
   --erro: #4b6994;
   --fundo: #101419;
   --letra: #FF3C38;
@@ -96,6 +87,3 @@ button{
   padding: 0;
   border: none;
 }
-
-
-/* --- fim ;) */
