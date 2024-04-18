@@ -6,7 +6,7 @@
 /* mobile */
 
 .projetos__item{
-    align-items: start;
+    align-items: center;
     display: flex;
     flex-direction: column;
   
