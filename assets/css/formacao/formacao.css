@@ -1,10 +1,10 @@
 
 
-@import url(./assets/css/formacao/formacao__container.css);
-@import url(./assets/css/formacao/formacao__titulo.css);
-@import url(./assets/css/formacao/formacao__lista.css);
-@import url(./assets/css/formacao/formacao__item.css);
-@import url(./assets/css/formacao/formacao__logo__container.css);
-@import url(./assets/css/formacao/formacao__logo.css);
-@import url(./assets/css/formacao/formacao__nome.css);
-@import url(./assets/css/formacao/formacao__texto.css);
+@import url(./formacao__container.css);
+@import url(./formacao__titulo.css);
+@import url(./formacao__lista.css);
+@import url(./formacao__item.css);
+@import url(./formacao__logo__container.css);
+@import url(./formacao__logo.css);
+@import url(./formacao__nome.css);
+@import url(./formacao__texto.css);
