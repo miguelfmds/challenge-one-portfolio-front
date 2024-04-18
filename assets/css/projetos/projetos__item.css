@@ -32,13 +32,13 @@
     .projetos__item{
       align-items: center;
       flex-direction: row;
-      justify-content: flex-start;
+      justify-content: center;
     }
   
     .projetos__item.single{
       align-items: center;
       flex-direction: row-reverse;
-      justify-content: space-between;
+      justify-content: center;
     }
   
   }
