@@ -22,7 +22,7 @@
   @media screen and (min-width:1024px) {
   
     .contato__imagem{
-      background-image: url("/assets/imagens/contato_imagem.png");
+      background-image: url("../assets/imagens/contato_imagem.png");
       background-repeat: no-repeat;
   
       box-sizing: border-box;

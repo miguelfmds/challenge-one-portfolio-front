@@ -17,7 +17,7 @@
 }
 
 .nav__logo::before {
-  content: url("/assets/imagens/navlogo.png");
+  content: url("../assets/imagens/navlogo.png");
 
   align-items: center;
   display: flex;
