@@ -5,6 +5,8 @@
 
 /* mobile */
 
+@charset "UTF-8";
+
 .nav__logo {
   align-items: center;
 
@@ -28,6 +30,3 @@
 }
 
 /* tablet / laptop / desktop - sem alterações */
-
-
- /* --- fim ;) */
