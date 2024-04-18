@@ -10,7 +10,7 @@
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   border-radius: 10px;
 
   box-sizing: border-box;
