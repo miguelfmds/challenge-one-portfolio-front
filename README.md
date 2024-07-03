@@ -11,6 +11,11 @@ utilizando um modelo do figma como base, porém com liberdade para estilizar da 
 - Desenvolver as funcionalidades do JavaScript
 - E, por fim, validar os formulários :)
 
+  ## Badge obtida ao concluir o desafio
+
+![Badge-Portfólio](https://github.com/miguelfmds/challenge-one-portfolio-front/assets/157380435/38b04403-8230-4fd7-a825-b0fa676dece8)
+
+
 
 ## Links
 [Layout do Figma](https://www.figma.com/file/Mv4mSxBHzB5caI7bW2tLv6/Challenge-Front-end-Portf%C3%B3lio?type=design&node-id=0-1&mode=design&t=oSpxmqFRuc2oYJmB-0)
